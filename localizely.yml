@@ -11,6 +11,8 @@ download:
       locale_code: en
     - file: lib/l10n/intl_ko.json
       locale_code: ko
+    - file: lib/l10n/intl_ko_kr.json
+      locale_code: ko-KR
     - file: lib/l10n/intl_de.json
       locale_code: de
     - file: lib/l10n/intl_es.json
