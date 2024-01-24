@@ -9,6 +9,8 @@ download:
   files: # List of files for download from Localizely.
     - file: lib/l10n/intl_en.json
       locale_code: en
+    - file: lib/l10n/intl_ko.json
+      locale_code: ko
     - file: lib/l10n/intl_de.json
       locale_code: de
     - file: lib/l10n/intl_es.json
