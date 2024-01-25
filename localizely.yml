@@ -1,5 +1,5 @@
 config_version: 1.0 # Only 1.0 available
-project_id: f16757f4-afa0-489e-8fd8-b2193e2f2f31 # Your project ID from: https://app.localizely.com/projects
+project_id: d7effa1b-28f5-4f46-8bfb-d4d15edcb4f1 # Your project ID from: https://app.localizely.com/projects
 file_type: json
 upload:
   files: # List of files for upload to Localizely. Usually it is just one file used for the main locale
